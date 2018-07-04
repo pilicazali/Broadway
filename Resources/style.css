@@ -1,0 +1,47 @@
+html {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+.background {
+  background-image: url("./images/building.png");
+}
+
+ul {
+  font-size: 18px;
+  color: white;
+}
+
+.process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#subtitles {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#info {
+  font-size: 14px;
+}
+
+.design {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("./images/building.png");
+}
+
+.brand {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
